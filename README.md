@@ -22,32 +22,24 @@
 
 3. **PRODIGY_WD_03 - Tic Tac Toe Web Application**
   </br></br>
-   <img alt="Tic Tac Toe Web Application" src="https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_03/Images/demo.png" />
-   - Description: This project is a simple yet fun Tic-Tac-Toe game built with React.js. Enjoy playing the game and explore the code to see how it's made!
-   - Technologies Used: React.js, JavaScript, CSS3, HTML, VsCode, Vercel
-   - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_03)
-   - [Demo Link](https://tic-tac-toc-mridul.vercel.app/)
+   <img alt="Tic Tac Toe Web Application" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/1aee2289-b403-4b26-9b29-05d2998e480b" />
+   - Description: This project is a fun Tic-Tac-Toe game built using only HTML, CSS and JavaScript.
+   - Technologies Used: HTMl, CSS, JavaScript.
+   - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_03)
+   - [Demo Link](https://tic-tac-toc-ikemen.netlify.app/)
 
 4. **PRODIGY_WD_04 - Personal Portfolio Website**
    </br></br>
-   <img alt="Personal Portfolio Website" src="https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_04/Images/readme-img1.png" />
+   <img alt="Personal Portfolio Website" src="" />
    - Description: This portfolio showcases my projects, skills, and experiences. Feel free to explore the different sections and projects!
    - Technologies Used: React.js, JavaScript, CSS3, HTML, VsCode, Vercel
-   - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_04)
-   - [Demo Link](https://mridul0703.vercel.app/)
+   - [Link to Project Repository]()
+   - [Demo Link]()
 
 5. **PRODIGY_WD_05 - Weather App**
     </br></br>
-   <img alt="Weather App" src="https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_05/src/images/demo-image.png" />
+   <img alt="Weather App" src="" />
    - Description: Welcome to the Weather App! This application allows you to search for and view weather information for any city. It displays current weather data and supports both Celsius and Fahrenheit temperature units. Enjoy a responsive design for an optimal user experience across all devices.
    - Technologies Used: React.js, Axios, OpenWeather API, CSS3, VsCode, Vercel
-   - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_05)
-   - [Demo Link](https://mridul-weather-app.vercel.app/)
-
-## Contact
-
-For any queries or feedback, feel free to reach out to us at [contact@example.com](mailto:mridulmkumar07@gmail.com).
-
-## Star the Repo
-
-If you found these projects useful or interesting, please consider starring the repository to show your support!
+   - [Link to Project Repository]()
+   - [Demo Link]()
