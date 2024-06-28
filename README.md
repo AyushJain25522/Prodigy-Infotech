@@ -6,10 +6,10 @@
 1. **PRODIGY_WD_01 - Responsive Landing Page**
    </br></br>
    <img alt="Responsive Landing Page" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/0f133efb-835a-4a3f-ab81-e5bade8a1466" />
-   - Description: Welcome to the Gaming Console Hub Landing Page! This landing page showcases the latest gaming consoles, providing users with information about various gaming options. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
+   - Description: This landing page showcases various features of a Food Delivery Site, providing users with information about diverse menu options. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
    - Technologies Used: HTMl, CSS, JavaScript.
-   - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_01)
-   - [Demo Link](https://landing-page-mridul.vercel.app/)
+   - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_01)
+   - [Demo Link](https://responsive-landing-page-ikemen.netlify.app/)
 
 2. **PRODIGY_WD_02 - Stop Watch Web Application**
    </br></br>
