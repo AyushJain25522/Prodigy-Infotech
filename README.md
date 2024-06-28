@@ -13,11 +13,12 @@
 
 2. **PRODIGY_WD_02 - Stop Watch Web Application**
    </br></br>
-   <img alt="Stop Watch Web Application" src="https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_02/readme-bg.jpg" />
-   - Description: Welcome to the Stopwatch Web Application! This application allows users to accurately measure and record time intervals. It's built using HTML, CSS, and JavaScript, providing an interactive and user-friendly experience.
+   <img alt="Stop Watch Web Application" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/8f69eb54-3a0b-4d3c-a39b-a508ab245ddc" />
+   - Description: This allows users to accurately measure and record time intervals. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
+
    - Technologies Used: HTMl, CSS, JavaScript.
-   - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_02)
-   - [Demo Link](https://stop-watch-mridul.vercel.app/)
+   - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_02)
+   - [Demo Link](https://stopwatch-ikemen.netlify.app/)
 
 3. **PRODIGY_WD_03 - Tic Tac Toe Web Application**
   </br></br>
