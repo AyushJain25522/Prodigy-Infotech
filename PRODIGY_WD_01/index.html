@@ -1,11 +1,239 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <title>Food Delivery</title>
+  </head>
+  <body>
+    <a href="#" class="scrollTop show-scroll" id="scroll-top">
+      <i class="bx bx-chevron-up scrollTop_icon"></i>
+    </a>
+
+    <header class="l-header" id="header">
+      <nav class="nav bd-container">
+          <b>Food<span>Delivery</span></b>
+        </a>
+        <div class="nav_menu" id="nav-menu">
+          <ul class="nav_list">
+            <li class="nav_item"><a href="#home" class="nav_link">Home</a></li>
+            <li class="nav_item"><a href="#about" class="nav_link">About Us</a></li>
+            <li class="nav_item"><a href="#services" class="nav_link">Services</a></li>
+            <li class="nav_item"><a href="#foods" class="nav_link">Foods</a></li>
+            <li class="hidden_item"><a href="#app" class="nav_link">App</a></li>
+            <li class="nav_item"><a href="#contact" class="nav_link">Contact Us</a></li>
+            <li><i class="bx bx-moon change-theme" id="theme-button"></i></li>
+          </ul>
+        </div>
+        <div class="nav_toggle" id="nav-toggle">
+          <button
+            class="menu"
+            aria-label="Open Menu"
+            onclick="this.classList.toggle('opened');this.setAttribute('aria-expanded', this.classList.contains('opened'))"
+          >
+            <svg width="40" height="41" viewBox="0 0 100 100">
+              <path
+                class="line line1"
+                d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058"
+              />
+              <path class="line line2" d="M 20,50 H 80" />
+              <path
+                class="line line3"
+                d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942"
+              />
+            </svg>
+          </button>
+        </div>
+      </nav>
+    </header>
+
+    <main class="l-main">
+      <section class="home" id="home">
+        <div class="home_container bd-container bd-grid">
+          <div class="home_data">
+            <h1 class="home_title">Delicious Food</h1>
+            <h2 class="home_subtitle">At your doorstep!</h2>
+            <a href="#foods" class="button">Order Now</a>
+          </div>
+          <img
+            src="assets/img/home.png"
+            alt="Healthy food plate"
+            class="home_img"
+          />
+        </div>
+      </section>
+
+      <section class="about section bd-container" id="about">
+        <div class="about_container bd-grid">
+          <div class="about_data">
+            <span class="section-subtitle about_initial">About Us</span>
+            <h2 class="section-title about_initial">
+              Experience the best in your region!
+            </h2>
+            <p class="about_description">
+              With just a few taps on the screen, and with the Uber quality standard, we connect you with the best meals in your area!
+            </p>
+            <a href="#app" class="button">Like it? Order now!</a>
+          </div>
+          <img
+            src="assets/img/about.jpg"
+            alt="Natural ingredients"
+            class="about_img"
+          />
+        </div>
+      </section>
+
+      <section class="services section bd-container" id="services">
+        <span class="section-subtitle">We offer for you</span>
+        <h2 class="section-title">What we do best</h2>
+      <section class="services section" id="services">
+        <div class="services_container bd-container bd-grid">
+          <div class="services_content">
+            <img src="assets/img/plate.png" alt="Plate Icon" class="services_img">
+            <h3 class="services_title">Excellent Food</h3>
+            <p class="services_description">High-quality meals prepared with fresh ingredients.</p>
+          </div>
+          <div class="services_content">
+            <img src="assets/img/truck.png" alt="Truck Icon" class="services_img">
+            <h3 class="services_title">Fast Delivery</h3>
+            <p class="services_description">Quick and reliable delivery service.</p>
+          </div>
+          <div class="services_content">
+            <img src="assets/img/pizza.png" alt="Pizza Icon" class="services_img">
+            <h3 class="services_title">Diverse Menu</h3>
+            <p class="services_description">A wide variety of delicious options.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="foods section bd-container" id="foods">
+        <span class="section-subtitle">The best</span>
+        <h2 class="section-title">Dishes of the Week</h2>
+        <div class="foods_container bd-grid">
+          <div class="foods_content">
+            <img src="assets/img/plate1.png" alt="" class="foods_img" />
+            <h3 class="foods_name">Rolls</h3>
+            <span class="foods_detail">Chinese</span>
+            <span class="foods_price">₹99.00</span>
+            <a href="#" class="button foods_button">
+              <i class="bx bx-cart"></i>
+            </a>
+          </div>
+          <div class="foods_content">
+            <img src="assets/img/plate2.png" alt="" class="foods_img" />
+            <h3 class="foods_name">Idli</h3>
+            <span class="foods_detail">South Indian</span>
+            <span class="foods_price">₹159.00</span>
+            <a href="#" class="button foods_button">
+              <i class="bx bx-cart"></i>
+            </a>
+          </div>
+          <div class="foods_content">
+            <img src="assets/img/plate3.png" alt="" class="foods_img" />
+            <h3 class="foods_name">Pizza</h3>
+            <span class="foods_detail">Italian</span>
+            <span class="foods_price">₹199.00</span>
+            <a href="#" class="button foods_button">
+              <i class="bx bx-cart"></i>
+            </a>
+          </div>
+          <div class="foods_content">
+            <img src="assets/img/plate4.png" alt="" class="foods_img" />
+            <h3 class="foods_name">Paneer</h3>
+            <span class="foods_detail">Traditional</span>
+            <span class="foods_price">₹169.00</span>
+            <a href="#" class="button foods_button">
+              <i class="bx bx-cart"></i>
+            </a>
+          </div>
+          <div class="foods_content">
+            <img src="assets/img/plate5.png" alt="" class="foods_img" />
+            <h3 class="foods_name">Burger</h3>
+            <span class="foods_detail">American</span>
+            <span class="foods_price">₹79.00</span>
+            <a href="#" class="button foods_button">
+              <i class="bx bx-cart"></i>
+            </a>
+          </div>
+          <div class="foods_content">
+            <img src="assets/img/plate6.png" alt="" class="foods_img" />
+            <h3 class="foods_name">Ice Cream</h3>
+            <span class="foods_detail">Dessert</span>
+            <span class="foods_price">₹49.00</span>
+            <a href="#" class="button foods_button">
+              <i class="bx bx-cart"></i>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="app section bd-container" id="app">
+        <div class="app_container bd-grid">
+          <div class="app_data">
+            <span class="section-subtitle app_initial">Start now!</span>
+            <h2 class="section-title app_initial">Install our app</h2>
+            <p class="app_description">
+              Just click below, install the app, and place your orders easily and intuitively!
+            </p>
+            <div class="app_stores">
+              <a href="#"><img src="assets/img/playStoreDownload.png" alt="" class="app_store" /></a>
+              <a href="#"><img src="assets/img/appStoreDownload.png" alt="" class="app_store" /></a>
+            </div>
+          </div>
+          <img src="assets/img/movil-app.png" alt="" class="app_img" />
+        </div>
+      </section>
+
+      <section class="contact section bd-container" id="contact">
+        <div class="contact_container bd-grid">
+          <div class="contact_data">
+            <span class="section-subtitle contact_initial">Need Help?</span>
+            <h2 class="section-title contact_initial">Let's talk!</h2>
+            <p class="contact_description">
+              If you have questions or need help, contact us now and we will get back to you as soon as possible!
+            </p>
+          </div>
+          <div class="contact_button">
+            <a href="#" class="button">Contact Us Now</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer section">
+      <div class="footer_container bd-container bd-grid">
+        <div class="footer_content">
+          <h3 class="footer_title">Our information</h3>
+          <ul>
+            <li><a href="https://github.com/IkemenSenpai/Prodigy-Infotech" class="footer_link">About Us</a></li>
+            <li><a href="#" class="footer_link">Privacy Policy</a></li>
+            <li><a href="#" class="footer_link">Terms of Service</a></li>
+          </ul>
+        </div>
+        <div class="footer_content">
+          <h3 class="footer_title">More</h3>
+          <ul>
+            <li><a href="#" class="footer_link">Cookie Policy</a></li>
+            <li><a href="#" class="footer_link">Accessibility</a></li>
+            <li><a href="#" class="footer_link">Sitemap</a></li>
+          </ul>
+        </div>
+        <div class="footer_content">
+          <h3 class="footer_title">Our social networks</h3>
+          <a href="https://github.com/IkemenSenpai/Prodigy-Infotech" class="footer_social"><i class="bx bxl-github"></i></a>
+          <a href="#" class="footer_social"><i class="bx bxl-twitter"></i></a>
+          <a href="#" class="footer_social"><i class="bx bxl-instagram"></i></a>
+        </div>
+      </div>
+      <p class="footer_copy">© 2024 Food Delivery. All rights reserved.</p>
+    </footer>
+
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
 </html>
