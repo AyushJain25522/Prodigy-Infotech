@@ -5,8 +5,8 @@
 
 1. **PRODIGY_WD_01 - Responsive Landing Page**
    </br></br>
-   <img alt="Responsive Landing Page"(https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/2feafe45-de38-461b-a95b-31e08a66d5c6)
- >
+   <img alt="Responsive Landing Page" (https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/bd09c2a8-db88-4fa7-b11c-f1732b7c4f05)
+
  />
    - Description: Welcome to the Gaming Console Hub Landing Page! This landing page showcases the latest gaming consoles, providing users with information about various gaming options. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
    - Technologies Used: HTMl, CSS, JavaScript.
