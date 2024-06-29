@@ -3,9 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/1a48c47b52.js" crossorigin="anonymous" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/luxon@2.0.2/build/global/luxon.min.js" defer></script>
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body>
-    
+    <div class="container">
+        <div class="weather__header">
+            <form class="weather__search" method="get">
+                <input type="text" placeholder="Search for a city" class="weather__searchform">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </form>
+            <div class="weather__units">
+                <span class="unit__celsius">&deg;C</span>
+                <span class="unit__fahrenheit">&deg;F</span>
+            </div>
+        </div>
+        <div class="weather__body">
+            <h1 class="weather__city"></h1>
+            <div class="weather__datetime">
+                <p></p>
+            </div>
+            <div class="weather__forecast">
+                <p>Cloudy</p>
+            </div>
+            <div class="weather__icon">
+                <img src="https://openweathermap.org/img/wn/10d@4x.png" alt="">
+            </div>
+            <p class="weather__temperature">18&deg</p>
+            <div class="weather__minmax">
+                <p>Min: 12&deg;</p>
+                <p>Max: 16&deg;</p>
+            </div>
+        </div>
+        <div class="weather__info">
+            <div class="weather__card">
+                <i class="fa-solid fa-temperature-three-quarters"></i>
+                <div>
+                    <p>Real Feel</p>
+                    <p class="weather__realfeel">18&deg;</p>
+                </div>
+            </div>
+            <div class="weather__card">
+                <i class="fa-solid fa-droplet"></i>
+                <div>
+                    <p>Humidity</p>
+                    <p class="weather__humidity">18&deg;</p>
+                </div>
+            </div>
+            <div class="weather__card">
+                <i class="fa-solid fa-wind"></i>
+                <div>
+                    <p>Wind</p>
+                    <p class="weather__wind">18&deg;</p>
+                </div>
+            </div>
+            <div class="weather__card">
+                <i class="fa-solid fa-stopwatch"></i>
+                <div>
+                    <p>Pressure</p>
+                    <p class="weather__pressure">18&deg;</p>
+                </div>
+            </div>
+            <div class="popup" id="locationPopup">
+                <div class="popup-content">
+                    <h2>Allow Access to Your Location</h2>
+                    <p>This app needs access to your location to show local weather information.</p>
+                    <button id="allowLocation">Allow</button>
+                    <button id="denyLocation">Deny</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <a href="https://github.com/IkemenSenpai/Prodigy-Infotech" class="footer_social"><i class="bx bxl-github"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100022130931747" class="footer_social"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.linkedin.com/in/ayushjain25522/" class="footer_social"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.instagram.com/ayush.jain.2411/" class="footer_social"><i class="bx bxl-instagram"></i></a>
+    </footer>
+    <script src="script.js" defer></script>
 </body>
 </html>
