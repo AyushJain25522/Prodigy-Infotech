@@ -13,7 +13,7 @@
 
 2. **PRODIGY_WD_02 - Stop Watch Web Application**
    </br></br>
-   <img alt="Stop Watch Web Application" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/8f69eb54-3a0b-4d3c-a39b-a508ab245ddc" />
+   <img alt="Stop Watch Web Application" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/4b6efb95-f2d6-445c-8ce1-19c89be5a397" />
    - Description: This allows users to accurately measure and record time intervals. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
 
    - Technologies Used: HTMl, CSS, JavaScript.
@@ -22,7 +22,7 @@
 
 3. **PRODIGY_WD_03 - Tic Tac Toe Web Application**
   </br></br>
-   <img alt="Tic Tac Toe Web Application" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/1aee2289-b403-4b26-9b29-05d2998e480b" />
+   <img alt="Tic Tac Toe Web Application" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/ac2e6f4a-d542-4d1f-8408-f6e6f6f0eaaf" />
    - Description: This project is a fun Tic-Tac-Toe game built using only HTML, CSS and JavaScript.
    - Technologies Used: HTMl, CSS, JavaScript.
    - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_03)
