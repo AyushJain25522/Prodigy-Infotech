@@ -1,6 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -77,4 +78,22 @@ button:hover {
     border-radius: 5px;
     color: #333;
     border: 1px solid #ccc;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.footer_social {
+    color: #fff;
+    font-size: 2rem;
+    transition: color 0.3s;
+}
+
+.footer_social:hover {
+    color: #0c0d0c; /* Change to the color you prefer */
 }
