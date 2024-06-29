@@ -1,32 +1,42 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport"
-            content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Tic-Tac-Toe</title>
-        <link rel="stylesheet" href="styles.css">
-    </head>
-    <body>
-        <section>
-            <h1 class="game--title">Tic-Tac-Toe</h1>
-            <div class="game--status-container">
-                <h2 class="game--status"></h2>
-            </div>
-            <div class="game--container">
-                <div data-cell-index="0" class="cell"></div>
-                <div data-cell-index="1" class="cell"></div>
-                <div data-cell-index="2" class="cell"></div>
-                <div data-cell-index="3" class="cell"></div>
-                <div data-cell-index="4" class="cell"></div>
-                <div data-cell-index="5" class="cell"></div>
-                <div data-cell-index="6" class="cell"></div>
-                <div data-cell-index="7" class="cell"></div>
-                <div data-cell-index="8" class="cell"></div>
-            </div>
-            <button class="game--restart">Restart Game</button>
-        </section>
-        <script src="script.js"></script>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tic-Tac-Toe</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <section>
+        <h1 class="game--title">Tic-Tac-Toe</h1>
+        <div class="game--status-container">
+            <h2 class="game--status"></h2>
+        </div>
+        <div class="game--container">
+            <div data-cell-index="0" class="cell"></div>
+            <div data-cell-index="1" class="cell"></div>
+            <div data-cell-index="2" class="cell"></div>
+            <div data-cell-index="3" class="cell"></div>
+            <div data-cell-index="4" class="cell"></div>
+            <div data-cell-index="5" class="cell"></div>
+            <div data-cell-index="6" class="cell"></div>
+            <div data-cell-index="7" class="cell"></div>
+            <div data-cell-index="8" class="cell"></div>
+        </div>
+        <button class="game--restart">Restart Game</button>
+    </section>
+
+    <!-- Simple Footer Section -->
+    <footer class="footer">
+        <a href="https://github.com/IkemenSenpai/Prodigy-Infotech" class="footer_social"><i class="bx bxl-github"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100022130931747" class="footer_social"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.linkedin.com/in/ayushjain25522/" class="footer_social"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.instagram.com/ayush.jain.2411/" class="footer_social"><i class="bx bxl-instagram"></i></a>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
 </html>

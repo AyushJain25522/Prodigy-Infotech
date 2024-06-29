@@ -1,6 +1,6 @@
-
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
@@ -76,4 +76,23 @@ section {
 
 .game--restart:hover {
     background-color: #005f73;
+}
+
+/* Simple Footer styles */
+.footer {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.footer_social {
+    color: #090909;
+    font-size: 2rem;
+    transition: color 0.3s;
+}
+
+.footer_social:hover {
+    color: #8610e6; /* Change to the color you prefer */
 }
