@@ -38,9 +38,3 @@
 ## Other Technologies Used During These Project:
 - Visual Studio Code
 - Netlify
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/your-username)
