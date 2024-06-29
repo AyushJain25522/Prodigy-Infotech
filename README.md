@@ -28,18 +28,10 @@
    - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_03)
    - [Demo Link](https://tic-tac-toc-ikemen.netlify.app/)
 
-4. **PRODIGY_WD_04 - Personal Portfolio Website**
-   </br></br>
-   <img alt="Personal Portfolio Website" src="" />
-   - Description: This portfolio showcases my projects, skills, and experiences. Feel free to explore the different sections and projects!
-   - Technologies Used: React.js, JavaScript, CSS3, HTML, VsCode, Vercel
-   - [Link to Project Repository]()
-   - [Demo Link]()
-
 5. **PRODIGY_WD_05 - Weather App**
     </br></br>
-   <img alt="Weather App" src="" />
-   - Description: Welcome to the Weather App! This application allows you to search for and view weather information for any city. It displays current weather data and supports both Celsius and Fahrenheit temperature units. Enjoy a responsive design for an optimal user experience across all devices.
-   - Technologies Used: React.js, Axios, OpenWeather API, CSS3, VsCode, Vercel
-   - [Link to Project Repository]()
+   <img alt="Weather App" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/5847521b-7ac6-4d33-919c-9b6e338ef878" />
+   - Description: This application allows you to search for and view weather information for any city. It displays current weather data and supports both Celsius and Fahrenheit temperature units. 
+   - Technologies Used: HTML, CSS, JavaScript, OpenWeather API
+   - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_05)
    - [Demo Link]()
