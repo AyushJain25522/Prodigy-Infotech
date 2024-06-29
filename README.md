@@ -19,7 +19,7 @@
    - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_02)
    - [Demo Link](https://stopwatch-ikemen.netlify.app/)
 
-3. **PRODIGY_WD_03 - Tic Tac Toe Web Application**[Task-3]
+3. **PRODIGY_WD_03 - Tic Tac Toe Web Application** [Task-3]
   </br></br>
    <img alt="Tic Tac Toe Web Application" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/ac2e6f4a-d542-4d1f-8408-f6e6f6f0eaaf" />
    - Description: This project is a fun Tic-Tac-Toe game built only using HTML, CSS and JavaScript.
