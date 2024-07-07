@@ -33,7 +33,7 @@
    - Description: This application allows you to search for and view weather information for any city. It displays current weather data by accessing user's location and supports both Celsius and Fahrenheit temperature units. 
    - Technologies Used: HTML, CSS, JavaScript, OpenWeather API
    - [Link to Project Repository](https://github.com/AyushJain25522/Prodigy-Infotech/tree/main/PRODIGY_WD_05)
-   - [Demo Link](https://weather-app-aj.netlify.app/)
+   - [Demo Link](https://weather-app-a-j.netlify.app/)
 
 ## Other Technologies Used During These Project:
 - Visual Studio Code
