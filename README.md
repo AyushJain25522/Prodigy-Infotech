@@ -11,9 +11,10 @@
    - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_01)
    - [Demo Link](https://responsive-landing-page-ikemen.netlify.app/)
   
-git clone https://github.com/IkemenSenpai/Prodigy-Infotech.git
-cd Prodigy-Infotech/PRODIGY_WD_03
-open index.html
+```sh
+  git clone https://github.com/IkemenSenpai/Prodigy-Infotech.git
+  cd Prodigy-Infotech/PRODIGY_WD_01
+  open index.html
 
 
 
