@@ -5,19 +5,12 @@
 
 1. **PRODIGY_WD_01 - Responsive Landing Page** [Task-1]
    </br></br>
-   <img alt="Responsive Landing Page" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/0f133efb-835a-4a3f-ab81-e5bade8a1466" />
+   <img alt="Responsive Landing Page" src="https://github.com/AyushJain25522/Prodigy-Infotech/assets/131573593/0f133efb-835a-4a3f-ab81-e5bade8a1466" />
    - Description: This landing page showcases various features of a Food Delivery Site, providing users with information about diverse menu options. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
    - Technologies Used: HTML, CSS, JavaScript.
    - [Link to Project Repository](https://github.com/IkemenSenpai/Prodigy-Infotech/tree/main/PRODIGY_WD_01)
    - [Demo Link](https://responsive-landing-page-ikemen.netlify.app/)
   
-```sh
-  git clone https://github.com/IkemenSenpai/Prodigy-Infotech.git
-  cd Prodigy-Infotech/PRODIGY_WD_01
-  open index.html
-
-
-
 2. **PRODIGY_WD_02 - Stop Watch Web Application** [Task-2]
    </br></br>
    <img alt="Stop Watch Web Application" src="https://github.com/IkemenSenpai/Prodigy-Infotech/assets/131573593/4b6efb95-f2d6-445c-8ce1-19c89be5a397" />
